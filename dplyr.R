@@ -1,5 +1,4 @@
 # Prashant B. Bhuyan
-# is607 Assignment 5
 
 ##### Problem 1 #####
 # Question 1: 
